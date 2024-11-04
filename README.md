@@ -25,8 +25,6 @@ This project explores multilingual question answering (QA) with datasets in Japa
 2. **Train Models**: Run models in sequence or selectively based on the configuration.
 3. **Evaluate**: Compute metrics like accuracy, F1 score, and perplexity for n-grams.
 
-For detailed instructions and dependencies, see the [installation guide](docs/installation.md).
-
 ## References
 - **[DistilBERT](https://arxiv.org/abs/1910.01108)**
 - **[Jurafsky et al., "Speech and Language Processing"](https://web.stanford.edu/~jurafsky/slp3/)**
